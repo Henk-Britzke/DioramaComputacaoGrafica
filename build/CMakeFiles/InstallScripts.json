@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/cmake_install.cmake",
+		"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glfw-build/cmake_install.cmake",
+		"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glfw-build/src/cmake_install.cmake",
+		"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glfw-build/docs/cmake_install.cmake",
+		"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-build/cmake_install.cmake",
+		"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-build/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

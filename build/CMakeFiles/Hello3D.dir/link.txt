@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Hello3D.dir/src/Hello3D.cpp.o CMakeFiles/Hello3D.dir/common/glad.c.o -o Hello3D  _deps/glfw-build/src/libglfw3.a -framework OpenGL -framework Cocoa -framework IOKit -framework CoreFoundation

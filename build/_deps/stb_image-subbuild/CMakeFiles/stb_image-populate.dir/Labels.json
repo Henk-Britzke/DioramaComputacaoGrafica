@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-build.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-download.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-install.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-patch_disconnected.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-test.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/stb_image-subbuild/stb_image-populate-prefix/src/stb_image-populate-stamp/stb_image-populate-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stb_image-populate"
+		],
+		"name" : "stb_image-populate"
+	}
+}

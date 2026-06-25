@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-subbuild/CMakeFiles/glm-populate"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-subbuild/CMakeFiles/glm-populate.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-subbuild/CMakeFiles/glm-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch_disconnected.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test.rule"
+		},
+		{
+			"file" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm-populate"
+		],
+		"name" : "glm-populate"
+	}
+}

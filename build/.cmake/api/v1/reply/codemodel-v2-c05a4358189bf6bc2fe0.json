@@ -1,0 +1,351 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"build" : "_deps/glfw-build",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.glfw-build-Debug-e4c3d5af1836c161a64e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "build/_deps/glfw-src",
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"build" : "_deps/glfw-build/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.glfw-build.src-Debug-e60e3aa992a6b3b82300.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/_deps/glfw-src/src",
+					"targetIndexes" : 
+					[
+						17,
+						20
+					]
+				},
+				{
+					"build" : "_deps/glfw-build/docs",
+					"jsonFile" : "directory-_deps.glfw-build.docs-Debug-a429f6bd40c9c6bdf801.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/_deps/glfw-src/docs"
+				},
+				{
+					"build" : "_deps/glm-build",
+					"childIndexes" : 
+					[
+						5
+					],
+					"jsonFile" : "directory-_deps.glm-build-Debug-201ada10ea0a1b5f163e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "build/_deps/glm-src"
+				},
+				{
+					"build" : "_deps/glm-build/glm",
+					"jsonFile" : "directory-_deps.glm-build.glm-Debug-894397eaf2e95b475181.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "build/_deps/glm-src/glm",
+					"targetIndexes" : 
+					[
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CGCCHIB",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						17,
+						19,
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4,
+						5
+					],
+					"name" : "glm",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AtividadeVivencial1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AtividadeVivencial1-Debug-ddd9662dd127536b3fc1.json",
+					"name" : "AtividadeVivencial1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AtividadeVivencial2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AtividadeVivencial2-Debug-776559279656a46b45d7.json",
+					"name" : "AtividadeVivencial2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CuboIluminacao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CuboIluminacao-Debug-5fe5edaa3f58a9e59a8d.json",
+					"name" : "CuboIluminacao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Diorama::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Diorama-Debug-caab0859a77991236379.json",
+					"name" : "Diorama",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Hello3D::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Hello3D-Debug-ca754c35f4bf8ee6ca78.json",
+					"name" : "Hello3D",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloAcao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloAcao-Debug-978d2c5c8a5509d966c3.json",
+					"name" : "HelloAcao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloBox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloBox-Debug-925a6a154a883c63ae74.json",
+					"name" : "HelloBox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloCamera::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloCamera-Debug-b14094d6dd1d724ba076.json",
+					"name" : "HelloCamera",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloCamera2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloCamera2-Debug-c3fbf847446e4e55e6a8.json",
+					"name" : "HelloCamera2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloIluminacao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloIluminacao-Debug-7dd3b3c5f56b1e235ad0.json",
+					"name" : "HelloIluminacao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloIluminacao2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloIluminacao2-Debug-94cd7fa7b431fe15925e.json",
+					"name" : "HelloIluminacao2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloLoadSimpleOBJ::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloLoadSimpleOBJ-Debug-4ad1e0ee0e0fd1f796ce.json",
+					"name" : "HelloLoadSimpleOBJ",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloTexture::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloTexture-Debug-dd6cf67dfb0aebdc20f1.json",
+					"name" : "HelloTexture",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HelloTexture2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HelloTexture2-Debug-90ce8b6668458ea532e4.json",
+					"name" : "HelloTexture2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SpherePhong::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SpherePhong-Debug-362bae3a338dd1c52bff.json",
+					"name" : "SpherePhong",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Teste::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Teste-Debug-2eb900fee9ef3ef2d9ff.json",
+					"name" : "Teste",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TriangleTex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TriangleTex-Debug-866809b3a1c0cc071c3e.json",
+					"name" : "TriangleTex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "glfw::@fa9f4482d3a2b070f206",
+					"jsonFile" : "target-glfw-Debug-ccbe81a1b4cc9433a73c.json",
+					"name" : "glfw",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "glm::@ce54d98d7b326a3e12a8",
+					"jsonFile" : "target-glm-Debug-5d63fd35328be127b4b1.json",
+					"name" : "glm",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@369fad943889a5ec39c8",
+					"jsonFile" : "target-uninstall-Debug-41dd199b2bfc6d5e5a0e.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "update_mappings::@fa9f4482d3a2b070f206",
+					"jsonFile" : "target-update_mappings-Debug-181a0120d4479f973cff.json",
+					"name" : "update_mappings",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido/build",
+		"source" : "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computac\u0327a\u0303o Grafica/CGCCHibrido"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

@@ -1,0 +1,338 @@
+[
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/Hello3D.dir/src/Hello3D.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/Hello3D.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/Hello3D.cpp",
+  "output": "CMakeFiles/Hello3D.dir/src/Hello3D.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/Hello3D.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/Hello3D.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/TriangleTex.dir/src/TriangleTex.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/TriangleTex.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/TriangleTex.cpp",
+  "output": "CMakeFiles/TriangleTex.dir/src/TriangleTex.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/TriangleTex.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/TriangleTex.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/SpherePhong.dir/src/SpherePhong.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/SpherePhong.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/SpherePhong.cpp",
+  "output": "CMakeFiles/SpherePhong.dir/src/SpherePhong.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/SpherePhong.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/SpherePhong.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/HelloBox.dir/src/HelloBox.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloBox.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloBox.cpp",
+  "output": "CMakeFiles/HelloBox.dir/src/HelloBox.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/HelloBox.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/HelloBox.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/AtividadeVivencial1.dir/src/AtividadeVivencial1.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/AtividadeVivencial1.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/AtividadeVivencial1.cpp",
+  "output": "CMakeFiles/AtividadeVivencial1.dir/src/AtividadeVivencial1.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/AtividadeVivencial1.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/AtividadeVivencial1.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/HelloTexture.dir/src/HelloTexture.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloTexture.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloTexture.cpp",
+  "output": "CMakeFiles/HelloTexture.dir/src/HelloTexture.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/HelloTexture.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/HelloTexture.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/CuboIluminacao.dir/src/CuboIluminacao.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/CuboIluminacao.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/CuboIluminacao.cpp",
+  "output": "CMakeFiles/CuboIluminacao.dir/src/CuboIluminacao.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/CuboIluminacao.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/CuboIluminacao.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/HelloIluminacao.dir/src/HelloIluminacao.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloIluminacao.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloIluminacao.cpp",
+  "output": "CMakeFiles/HelloIluminacao.dir/src/HelloIluminacao.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/HelloIluminacao.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/HelloIluminacao.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/AtividadeVivencial2.dir/src/AtividadeVivencial2.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/AtividadeVivencial2.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/AtividadeVivencial2.cpp",
+  "output": "CMakeFiles/AtividadeVivencial2.dir/src/AtividadeVivencial2.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/AtividadeVivencial2.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/AtividadeVivencial2.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/HelloCamera.dir/src/HelloCamera.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloCamera.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloCamera.cpp",
+  "output": "CMakeFiles/HelloCamera.dir/src/HelloCamera.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/HelloCamera.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/HelloCamera.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/HelloLoadSimpleOBJ.dir/src/HelloLoadSimpleOBJ.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloLoadSimpleOBJ.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloLoadSimpleOBJ.cpp",
+  "output": "CMakeFiles/HelloLoadSimpleOBJ.dir/src/HelloLoadSimpleOBJ.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/HelloLoadSimpleOBJ.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/HelloLoadSimpleOBJ.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/HelloTexture2.dir/src/HelloTexture2.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloTexture2.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloTexture2.cpp",
+  "output": "CMakeFiles/HelloTexture2.dir/src/HelloTexture2.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/HelloTexture2.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/HelloTexture2.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/Teste.dir/src/Teste.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/Teste.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/Teste.cpp",
+  "output": "CMakeFiles/Teste.dir/src/Teste.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/Teste.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/Teste.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/HelloIluminacao2.dir/src/HelloIluminacao2.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloIluminacao2.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloIluminacao2.cpp",
+  "output": "CMakeFiles/HelloIluminacao2.dir/src/HelloIluminacao2.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/HelloIluminacao2.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/HelloIluminacao2.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/HelloCamera2.dir/src/HelloCamera2.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloCamera2.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloCamera2.cpp",
+  "output": "CMakeFiles/HelloCamera2.dir/src/HelloCamera2.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/HelloCamera2.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/HelloCamera2.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/HelloAcao.dir/src/HelloAcao.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloAcao.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/HelloAcao.cpp",
+  "output": "CMakeFiles/HelloAcao.dir/src/HelloAcao.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/HelloAcao.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/HelloAcao.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -Wno-pragmas -o CMakeFiles/Diorama.dir/src/Diorama.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/Diorama.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/src/Diorama.cpp",
+  "output": "CMakeFiles/Diorama.dir/src/Diorama.cpp.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build",
+  "command": "/usr/bin/clang  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/include/glad\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/stb_image-src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -arch arm64 -Wno-pragmas -o CMakeFiles/Diorama.dir/common/glad.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/common/glad.c",
+  "output": "CMakeFiles/Diorama.dir/common/glad.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/context.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/context.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/context.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/init.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/init.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/init.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/input.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/input.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/input.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/monitor.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/monitor.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/monitor.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/platform.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/platform.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/platform.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/platform.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/vulkan.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/vulkan.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/vulkan.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/window.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/window.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/window.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/egl_context.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/egl_context.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/egl_context.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/osmesa_context.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/osmesa_context.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/null_init.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/null_init.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/null_init.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_init.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/null_monitor.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/null_monitor.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/null_monitor.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/null_window.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/null_window.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/null_window.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_window.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/null_joystick.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/null_joystick.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/null_joystick.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_time.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/cocoa_time.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/cocoa_time.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/cocoa_time.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_module.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/posix_module.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/posix_module.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_module.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/posix_thread.c\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/posix_thread.c",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_init.m.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/cocoa_init.m\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/cocoa_init.m",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/cocoa_joystick.m\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/cocoa_joystick.m",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/cocoa_monitor.m\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/cocoa_monitor.m",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_window.m.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/cocoa_window.m\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/cocoa_window.m",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src",
+  "command": "/usr/bin/clang -D_GLFW_COCOA -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/include\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src\" -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-build/src\" -g -std=c99 -arch arm64 -fPIC -Wall -o CMakeFiles/glfw.dir/nsgl_context.m.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/nsgl_context.m\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-src/src/nsgl_context.m",
+  "output": "_deps/glfw-build/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
+},
+{
+  "directory": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-build/glm",
+  "command": "/usr/bin/clang++  -I\"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src\" -g -std=c++17 -arch arm64 -Wno-c++98-compat -Wno-c++98-compat-pedantic -Wno-switch-default -o CMakeFiles/glm.dir/detail/glm.cpp.o -c \"/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src/glm/detail/glm.cpp\"",
+  "file": "/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glm-src/glm/detail/glm.cpp",
+  "output": "_deps/glm-build/glm/CMakeFiles/glm.dir/detail/glm.cpp.o"
+}
+]

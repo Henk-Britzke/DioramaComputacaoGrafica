@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate.rule
+/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete.rule
+/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build.rule
+/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure.rule
+/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download.rule
+/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install.rule
+/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir.rule
+/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch_disconnected.rule
+/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test.rule
+/Users/ipim/Desktop/Area de Trabalho/Faculdade/Computação Grafica/CGCCHibrido/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update_disconnected.rule
