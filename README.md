@@ -1,47 +1,84 @@
 # Computação Gráfica - Híbrido
 
-Repositório de exemplos de códigos em C++ utilizando OpenGL moderna (3.3+) criado para a Atividade Acadêmica Computação Gráfica do curso de graduação em Ciência da Computação - modalidade híbrida - da Unisinos. Ele é estruturado para facilitar a organização dos arquivos e a compilação dos projetos utilizando CMake.
+Diorama - GB
 
-## 📂 Estrutura do Repositório
+-----------
+Buildar e compilar
 
-```plaintext
-📂 CGCCHibrido/
-├── 📂 include/               # Cabeçalhos e bibliotecas de terceiros
-│   ├── 📂 glad/              # Cabeçalhos da GLAD (OpenGL Loader)
-│   │   ├── glad.h
-│   │   ├── 📂 KHR/           # Diretório com cabeçalhos da Khronos (GLAD)
-│   │       ├── khrplatform.h
-├── 📂 common/                # Código reutilizável entre os projetos
-│   ├── glad.c                # Implementação da GLAD
-├── 📂 src/                   # Código-fonte dos exemplos e exercícios
-│   ├── Hello3D.cpp           # Exemplo básico de renderização com OpenGL
-│   ├── ...                   # Outros exemplos e exercícios futuros
-├── 📂 build/                 # Diretório gerado pelo CMake (não incluído no repositório)
-├── 📂 assets/                # diretório com modelos 3D, texturas, fontes etc
-├── 📄 CMakeLists.txt         # Configuração do CMake para compilar os projetos
-├── 📄 README.md              # Este arquivo, com a documentação do repositório
-├── 📄 GettingStarted.md      # Tutorial detalhado sobre como compilar usando o CMake
-```
+cd build
+cmake --build
+./Diorama
 
-Siga as instruções detalhadas em [GettingStarted.md](GettingStarted.md) para configurar e compilar o projeto.
+---------
 
-## ⚠️ **IMPORTANTE: Baixar a GLAD Manualmente**
-Para que o projeto funcione corretamente, é necessário **baixar a GLAD manualmente** utilizando o **GLAD Generator**.
+Controles
 
-### 🔗 **Acesse o web service do GLAD**:
-👉 [GLAD Generator](https://glad.dav1d.de/)
+Câmera
 
-### ⚙️ **Configuração necessária:**
-- **API:** OpenGL  
-- **Version:** 3.3+ (ou superior compatível com sua máquina)  
-- **Profile:** Core  
-- **Language:** C/C++  
+W A S D — mover câmera
 
-### 📥 **Baixe e extraia os arquivos:**
-Após a geração, extraia os arquivos baixados e coloque-os nos diretórios correspondentes:
-- Copie **`glad.h`** para `include/glad/`
-- Copie **`khrplatform.h`** para `include/glad/KHR/`
-- Copie **`glad.c`** para `common/`
+Espaço — subir
 
-🚨 **Sem esses arquivos, a compilação falhará!** É necessário colocar esses arquivos nos diretórios corretos, conforme a orientação acima.
+Shift — descer
 
+Mouse — olhar ao redor
+
+Seleção
+
+TAB — ciclar entre objetos (selecionado fica amarelo)
+
+Transformações
+
+Setas — transladar em X e Z
+
+I / J — transladar em Y (cima / baixo)
+
+Z / X / C — iniciar, pausar e retomar rotação nos eixos Z, X e Y
+
+[ / ] — aumentar / diminuir escala uniforme
+
+Trajetória
+
+P — adicionar ponto de trajetória na posição atual
+
+T — iniciar / pausar trajetória do objeto selecionado
+
+O — limpar pontos de trajetória
+
+L — salvar trajetórias
+
+Iluminação
+
+1 / 2 / 3 — ligar e desligar cada luz
+
+V / Ctrl+V — aumentar / diminuir Ka (ambiente)
+
+B / Ctrl+B — aumentar / diminuir Kd (difusa)
+
+N / Ctrl+N — aumentar / diminuir Ks (especular)
+
+M / Ctrl+M — aumentar / diminuir Ns (brilho)
+
+Outros
+
+ESC — fechar o programa
+-----------------------
+
+Assets: https://poly.pizza/m/ayOM0vyW_qd
+https://poly.pizza/m/8ueXsvnRjC1
+https://poly.pizza/m/cJotNkUGLMw
+https://poly.pizza/m/HnfcEtSmUC
+https://poly.pizza/m/6pwiq7hSrHr
+https://poly.pizza/m/2zt43AlwVoI
+https://poly.pizza/m/eKvf58ik1IA
+https://poly.pizza/m/eRag_AC3KiS
+
+------------------------------
+
+Referencias:
+
+https://www.youtube.com/watch?v=45MIykWJ-C4
+https://www.youtube.com/@VictorGordan/videos
+http://www.opengl-tutorial.org/beginners-tutorials/tutorial-8-basic-shading/
+https://www.youtube.com/@OGLDEV/videos
+https://learnopengl.com
